@@ -1,7 +1,7 @@
 {
   "name": "takorogo",
   "main": "lib/grypher.js",
-  "version": "0.0.1-17",
+  "version": "0.0.1",
   "homepage": "https://takorogo.github.io/",
   "authors": [
     "Mikhail Zyatin <mikhail.zyatin@gmail.com>"
