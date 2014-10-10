@@ -1,6 +1,6 @@
 {
   "name": "takorogo",
-  "main": "lib/grypher.js",
+  "main": "lib/takorogo.js",
   "version": "0.0.1",
   "homepage": "https://takorogo.github.io/",
   "authors": [
@@ -19,6 +19,9 @@
     "document",
     "nosql"
   ],
+  "dependencies": {
+    "lodash": "~2.4.1"
+  },
   "license": "MIT",
   "ignore": []
 }
